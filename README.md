@@ -1,22 +1,25 @@
-Denowatts Automation
-====================
+End-to-End Test Automation using Playwright
 
-Files created:
-- playwright.config.js
-- pages/loginPage.js
-- pages/homePage.js
-- pages/quotePage.js
-- pages/summaryPage.js
-- tests/quoteFlow.spec.js
-- package.json
+🛠 Tech Stack:
 
-Usage:
-1. Extract the zip to your machine.
-2. cd denowatts-automation
-3. npm install
-4. npx playwright install
-5. npx playwright test tests/quoteFlow.spec.js --headed
+🎭 Playwright
 
-Credentials are hardcoded as requested:
-email:
-password: 
+⚡ JavaScript (Node.js)
+
+📊 Cross-Browser Testing
+
+📜 Detailed HTML Reports
+
+✅ Features:
+
+🔐 Secure Login Automation
+
+📝 Quote Form Filling & Validation
+
+🔍 Data Verification on Summary Page
+
+🌐 Chromium, Firefox, WebKit Support
+
+📂 Reports:
+
+HTML, Trace Viewer, & Screenshot Logs
