@@ -1,0 +1,15 @@
+
+{
+  "name": "denowatts-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation for Denowatts portal",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
