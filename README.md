@@ -18,5 +18,5 @@ Usage:
 5. npx playwright test tests/quoteFlow.spec.js --headed
 
 Credentials are hardcoded as requested:
-email: denowat122islam@gmail.com
-password: Project77
+email:
+password: 
